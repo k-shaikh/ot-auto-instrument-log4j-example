@@ -1,0 +1,13 @@
+.teamcity/target/
+.gradle/
+.idea/
+*.iml
+build/
+dist/
+*.swp
+decrypted-ssh-key
+.DS_Store
+*.class
+*/out
+logs/
+
