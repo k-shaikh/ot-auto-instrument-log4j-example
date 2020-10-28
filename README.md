@@ -3,8 +3,10 @@
 ### Steps to run the example
 
 1. wget https://github.com/open-telemetry/opentelemetry-java-instrumentation/releases/latest/download/opentelemetry-javaagent-all.jar
+
 2. ./gradlew build
-3.starting java app - with logging exporter
+
+3. starting java app - with logging exporter
 
  
  ``` 
